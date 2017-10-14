@@ -8,5 +8,5 @@ npm install redux-thunk
 
 //Just for debug
 npm install redux-devtools-extension
-npm install redux-logger
+npm install redux-logger  
 
