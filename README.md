@@ -15,4 +15,5 @@ npm install redux-logger
 ```
 //
 a.
-b. 
+b.
+c. 
