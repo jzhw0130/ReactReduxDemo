@@ -1,7 +1,7 @@
 # ReactReduxDemo
 
 
-NPM for  Redux
+NPM for  Redux (Additional)
 
 ```
 npm install redux
